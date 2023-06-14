@@ -1,0 +1,26 @@
+{
+  "name": "jest",
+  "version": "1.0.0",
+  "description": "Jest Course",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Starky65/Jest.git"
+  },
+  "keywords": [
+    "jest",
+    "testing"
+  ],
+  "author": "Oscar Ortega",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Starky65/Jest/issues"
+  },
+  "homepage": "https://github.com/Starky65/Jest#readme",
+  "devDependencies": {
+    "jest": "^29.5.0"
+  }
+}
